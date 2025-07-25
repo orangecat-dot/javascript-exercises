@@ -17,7 +17,7 @@ After understanding the example code, you will recreate the snippet on your own 
 
 Note: To make the tests pass, you will need to use exact values and wording (as you will see described in `joinStrings.js`). If the tests fail, look at the feedback in your terminal then check your spacing, capitalization, and punctuation.
 
-## Step 3: Optimize
+## Step 3: Optimize 
 You will edit your code to make it easier to read using the following instructions:
 
 1. Create 2 new variables: `fullName` and `age`
